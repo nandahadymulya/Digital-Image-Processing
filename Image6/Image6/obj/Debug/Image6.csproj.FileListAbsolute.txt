@@ -1,0 +1,10 @@
+D:\visualstudio\repos\Image6\Image6\bin\Debug\Image6.exe.config
+D:\visualstudio\repos\Image6\Image6\bin\Debug\Image6.exe
+D:\visualstudio\repos\Image6\Image6\bin\Debug\Image6.pdb
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.csprojAssemblyReference.cache
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.Form1.resources
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.Properties.Resources.resources
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.csproj.GenerateResource.cache
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.csproj.CoreCompileInputs.cache
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.exe
+D:\visualstudio\repos\Image6\Image6\obj\Debug\Image6.pdb

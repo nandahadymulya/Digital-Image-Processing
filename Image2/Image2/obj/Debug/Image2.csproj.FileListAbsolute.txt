@@ -1,0 +1,10 @@
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.Form1.resources
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.Properties.Resources.resources
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.csproj.GenerateResource.cache
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.csproj.CoreCompileInputs.cache
+D:\visualstudio\repos\Image2\Image2\bin\Debug\Image2.exe.config
+D:\visualstudio\repos\Image2\Image2\bin\Debug\Image2.exe
+D:\visualstudio\repos\Image2\Image2\bin\Debug\Image2.pdb
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.exe
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.pdb
+D:\visualstudio\repos\Image2\Image2\obj\Debug\Image2.csprojAssemblyReference.cache
